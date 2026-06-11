@@ -1,0 +1,5 @@
+PCB-BOM-Parser/
+├── data/
+│   └── raw_bom.csv      # The messy export file from the CAD software
+├── main.py              # The core Python script
+└── README.md            # Project documentation
