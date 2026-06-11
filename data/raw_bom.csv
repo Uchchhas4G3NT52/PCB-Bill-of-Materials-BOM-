@@ -1,0 +1,9 @@
+Designator, Value, Footprint, Manufacturer, PartNumber
+R1, 10k, 0402, Yageo, RC0402JR-0710KL
+R2, 10k, 0402, Yageo, 
+C1, 0.1uF, 0603, Murata, GRM188R71C104KA01D
+U1, NE555, SOIC-8, TI, NE555DR
+R3, 4.7k, 0402, Vishay, 
+D1, 1N4148, SOD-323, DiodesInc, 1N4148WS-7-F
+L1, 10uH, 0805, TDK, 
+J1, USB-C, TH, Wurth, 632723300011
